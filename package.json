@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "mapbox": "^1.0.0-beta10",
     "next": "13.1.2",
+    "next-mdx": "^0.6.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "remark-gfm": "^3.0.1"
   },
   "devDependencies": {
     "eslint": "8.32.0",
