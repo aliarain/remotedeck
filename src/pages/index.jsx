@@ -14,10 +14,12 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>TaxPal - Accounting made simple for small businesses</title>
+        <title>remotedeck - get jobs for your tech stack</title>
         <meta
           name="description"
-          content="Most bookkeeping software is accurate, but hard to use. We make the opposite trade-off, and hope you don’t get audited."
+          content="Remote Deck is a job portal that connects developers with high-paying job opportunities at startups.
+          Our platform offers a wide range of job listings and a user-friendly
+          interface for easy job searching and application. Sign up today and discover your next career move."
         />
       </Head>
       <Header />
